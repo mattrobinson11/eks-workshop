@@ -3,6 +3,7 @@ title: "Introduction"
 weight: 5
 chapter: true
 draft: false
+tags: ["Getting Started"] 
 ---
 
 # Introduction to Kubernetes

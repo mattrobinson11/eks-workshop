@@ -2,6 +2,7 @@
 title: "Start the workshop..."
 chapter: true
 weight: 10
+tags: ["Getting Started"]
 ---
 
 # Getting Started

@@ -3,6 +3,7 @@ title: "Deploying Jenkins"
 chapter: true
 weight: 45
 draft: false
+tags: ["Intermediate","Operations", "CI/CD"]
 ---
 
 # Deploy Jenkins

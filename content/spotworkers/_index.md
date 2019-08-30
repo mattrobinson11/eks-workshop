@@ -3,6 +3,7 @@ title: "Using Spot Instances with EKS"
 chapter: true
 weight: 42
 draft: false
+tags: ["Intermediate","Operations"]
 ---
 
 # Using Spot Instances with EKS

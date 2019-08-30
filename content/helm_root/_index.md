@@ -2,6 +2,7 @@
 title: "Helm"
 chapter: true
 weight: 33
+tags: ["Getting Started","Operations", "Deploy"]
 ---
 
 # Kubernetes Helm

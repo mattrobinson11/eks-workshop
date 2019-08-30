@@ -7,6 +7,7 @@ uglyurls = false
 googleAnalytics = "UA-44634850-4"
 sectionPagesMenu = "main"
 relativeURLs = true
+tags = ["documentation", "grav", "learn", "doc", "search"]
 
 [blackfriday]
 hrefTargetBlank = true
@@ -41,6 +42,11 @@ pygmentsStyle = "tango"
     title = "Workshop using Mu"
     url = "/mu/"
     weight = -110
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-tags'></i> Tags"
+url = "/tags"
+weight = 5
 
 [[menu.shortcuts]]
 name = "<i class='fas fa-bookmark'></i> More Resources"

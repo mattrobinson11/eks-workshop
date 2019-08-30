@@ -2,6 +2,7 @@
 title: "Launch using eksctl"
 chapter: true
 weight: 20
+tags: ["Getting Started", "Operations"]
 ---
 
 # Launch using [eksctl](https://eksctl.io/)

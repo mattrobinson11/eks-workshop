@@ -2,6 +2,7 @@
 title: "Autoscaling our Applications and Clusters"
 chapter: true
 weight: 41
+tags: ["Intermediate","Operations", "Deploy"]
 ---
 
 # Implement AutoScaling with HPA and CA

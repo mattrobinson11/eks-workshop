@@ -1,8 +1,9 @@
 ---
 title: "CI/CD with CodePipeline"
 chapter: true
-weight: 42
+weight: 43
 draft: false
+tags: ["Intermediate","Operations", "CI/CD"]
 ---
 
 # CI/CD with CodePipeline

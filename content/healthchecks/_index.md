@@ -2,6 +2,7 @@
 title: "Health Checks"
 chapter: true
 weight: 40
+tags: ["Getting Started","Operations", "Deploy"]
 ---
 
 # Health Checks

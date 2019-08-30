@@ -3,6 +3,7 @@ title: "Machine Learning using Kubeflow"
 chapter: true
 weight: 49
 draft: false
+tags: ["Advanced", "AI/ML"]
 ---
 
 # Machine Learning using [Kubeflow](https://kubeflow.org/)
